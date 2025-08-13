@@ -30,5 +30,5 @@ Due to file size limitations on GitHub, the full `.npy` dataset is hosted on Goo
 
 ## 📧 Contact
 
-📨 Jihoon Park,   Ph.D. — [analysispark@gmail.com](mailto:analysispark@gmail.com)[Phd. Jihoon, Park] analysispark@gmail.com
-📨 Hyongjun Choi, Ph.D. — [chj2812@dankook.ac.kr](mailto:chj2812@dankook.ac.kr)[Phd. Hyongjun, Choi] chj2812@dankook.ac.kr
+📨 Jihoon Park,   Ph.D. — [analysispark@gmail.com](mailto:analysispark@gmail.com)
+📨 Hyongjun Choi, Ph.D. — [chj2812@dankook.ac.kr](mailto:chj2812@dankook.ac.kr)
